@@ -1,7 +1,7 @@
 # Macroeconomics III
 
 University of Copenhagen · MSc Economics · Spring 2026 · 7.5 ECTS  
-<!-- TODO: Course code and link to kurser.ku.dk -->
+Course code AØKA08006U · [Course description](https://kurser.ku.dk/course/a%C3%98ka08006u)
 
 Graduate macroeconomics, covering consumption and savings decisions, business cycles and growth. The two assignments solve an optimal consumption problem and document business cycle facts for the US and Portugal.
 
